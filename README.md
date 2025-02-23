@@ -17,10 +17,12 @@ O aplicativo exibe o número total de inscrições feitas através do link de re
 📍 Atualização Dinâmica de Imagens:
 As imagens da página são atualizadas para serem carregadas a partir de um repositório público no GitHub, garantindo que o conteúdo visual esteja sempre sincronizado.
 
-TECNOLOGIAS UTILIZADAS
+💻 TECNOLOGIAS UTILIZADAS
 
 HTML5 – Estrutura da página.
+
 CSS3 – Estilização dos elementos (não incluso neste exemplo, mas pode ser complementado).
+
 JavaScript – Lógica de manipulação do DOM, cadastro de usuários, gerenciamento do sistema de convites e atualização de links de imagens.
 
 
