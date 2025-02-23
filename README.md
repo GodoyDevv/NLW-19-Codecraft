@@ -57,6 +57,7 @@ Responsividade:
 Ajustar o layout para garantir uma boa experiência em dispositivos móveis.
 
 Contribuições
+
 Sinta-se à vontade para contribuir com o projeto. Caso tenha sugestões, correções ou melhorias, abra uma issue ou envie um pull request.
 
 Desenvolvido por GodoyDevv
