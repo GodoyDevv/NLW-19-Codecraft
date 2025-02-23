@@ -1,26 +1,30 @@
-App de Inscrição e Convite para Evento
-Este projeto é um aplicativo web simples que permite que os usuários se inscrevam para um evento e, ao mesmo tempo, gerenciem um sistema de convite através de um código de referência. A ideia é incentivar a divulgação do evento, permitindo que os participantes compartilhem um link único e acompanhem quantas inscrições foram realizadas através dele.
+💻 APP DE INSCRIÇÃO E CONVITE PARA EVENTO
 
-Funcionalidades
-Inscrição de Usuários:
+
+📌 Este projeto é um aplicativo web simples que permite que os usuários se inscrevam para um evento e, ao mesmo tempo, gerenciem um sistema de convite através de um código de referência. A ideia é incentivar a divulgação do evento, permitindo que os participantes compartilhem um link único e acompanhem quantas inscrições foram realizadas através dele.
+
+FUNCIONALIDADES
+
+📍 Inscrição de Usuários:
 Os usuários podem se registrar informando e-mail e telefone. Caso o usuário já esteja cadastrado, o sistema redireciona para a página de convite.
 
-Sistema de Convite:
+📍 Sistema de Convite:
 Ao confirmar a inscrição, o usuário recebe um link de convite personalizado com um código de referência. Esse link pode ser compartilhado para convidar outras pessoas.
 
-Contagem de Indicações:
+📍 Contagem de Indicações:
 O aplicativo exibe o número total de inscrições feitas através do link de referência do usuário, permitindo acompanhar o sucesso do convite.
 
-Atualização Dinâmica de Imagens:
+📍 Atualização Dinâmica de Imagens:
 As imagens da página são atualizadas para serem carregadas a partir de um repositório público no GitHub, garantindo que o conteúdo visual esteja sempre sincronizado.
 
-Tecnologias Utilizadas
+TECNOLOGIAS UTILIZADAS
+
 HTML5 – Estrutura da página.
 CSS3 – Estilização dos elementos (não incluso neste exemplo, mas pode ser complementado).
-JavaScript (Vanilla) – Lógica de manipulação do DOM, cadastro de usuários, gerenciamento do sistema de convites e atualização de links de imagens.
+JavaScript – Lógica de manipulação do DOM, cadastro de usuários, gerenciamento do sistema de convites e atualização de links de imagens.
 
 
-Como Funciona
+⚙️ Como Funciona
 Início:
 
 Ao carregar a página, o usuário vê informações sobre o evento e o formulário de inscrição.
@@ -41,7 +45,7 @@ Atualização de Imagens:
 
 A função updateImageLinks atualiza as fontes das imagens para que sejam carregadas de um repositório público no GitHub.
 
-Possíveis melhorias
+💡 POSSÍVEIS MELHORIAS
 Persistência de Dados:
 Implementar uma API ou utilizar armazenamento local para manter os dados dos usuários entre as sessões.
 
