@@ -44,6 +44,8 @@ Atualização de Imagens:
 A função updateImageLinks atualiza as fontes das imagens para que sejam carregadas de um repositório público no GitHub.
 
 💡 POSSÍVEIS MELHORIAS
+
+
 Persistência de Dados:
 Implementar uma API ou utilizar armazenamento local para manter os dados dos usuários entre as sessões.
 
@@ -56,7 +58,7 @@ Melhorar a experiência do usuário com mensagens de erro, loaders e animações
 Responsividade:
 Ajustar o layout para garantir uma boa experiência em dispositivos móveis.
 
-Contribuições
+CONTRIBUIÇÕES
 
 Sinta-se à vontade para contribuir com o projeto. Caso tenha sugestões, correções ou melhorias, abra uma issue ou envie um pull request.
 
