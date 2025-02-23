@@ -25,9 +25,7 @@ JavaScript – Lógica de manipulação do DOM, cadastro de usuários, gerenciam
 
 
 ⚙️ Como Funciona
-Início:
 
-Ao carregar a página, o usuário vê informações sobre o evento e o formulário de inscrição.
 
 Cadastro:
 
